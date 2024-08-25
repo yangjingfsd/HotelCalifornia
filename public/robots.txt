@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /signup/
+
+# Crawling instructions for specific bots
+User-agent: Googlebot
+Disallow: /gallery/
